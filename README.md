@@ -38,7 +38,3 @@ The system categorizes customers into four business personas:
 - Pandas
 - Plotly
 
-Install dependencies:
-
-```bash
-pip install streamlit pandas plotly
